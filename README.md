@@ -5,7 +5,7 @@ A thin convention-conforming wrapper around the upstream [`rspamd/rspamd`](https
 ## Image
 
 ```
-ghcr.io/rest-mail/reference-rspamd:latest          # newest master build; pin a release instead
+ghcr.io/rest-mail/reference-rspamd:latest          # newest main build; pin a release instead
 ghcr.io/rest-mail/reference-rspamd:X.Y.Z          # a release: git tag vX.Y.Z publishes it
 ```
 
